@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "API post",
+      "content": "Content for app"
+    },
+    {
+      "title": "Proper title",
+      "content": "Proper content",
+      "id": 5
+    },
+    {
+      "title": "Wsdes",
+      "content": "Sds",
+      "id": 6
+    }
+  ]
+}
